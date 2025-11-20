@@ -1,0 +1,16 @@
+{
+  "name": "project-hello-world",
+  "version": "1.0.0",
+  "description": "Simple Node web server that displays Hello World.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hello",
+    "web"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
